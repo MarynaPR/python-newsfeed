@@ -12,8 +12,8 @@ class User(Base):
   email = Column(String(50), nullable=False, unique=True)
   password = Column(String(100), nullable=False)
 
-  @validates('email')
-  def validate_email(self, key, email):
+@validates('email')
+def validate_email(self, key, email):
     # make sure email address contains @ character
     assert '@' in email
 
