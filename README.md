@@ -18,5 +18,8 @@ to test filters run `python3 app/utils/filters.py`
 ##  Resources
 
 * [ Python documentation on strftime() and strptime() format codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)
+* [ Python documentation on dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+* [Python documentation on errors and exceptions](https://docs.python.org/3/tutorial/errors.html)
+
 
 
