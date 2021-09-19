@@ -14,3 +14,9 @@
 
 * Visit `http://127.0.0.1:5000/` in the browser.
 
+to test filters run `python3 app/utils/filters.py`
+##  Resources
+
+* [ Python documentation on strftime() and strptime() format codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)
+
+
